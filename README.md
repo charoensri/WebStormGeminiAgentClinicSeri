@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="Project Logo" height="100">
+  <img src="public/logo.png" alt="Project Logo" height="300">
 </p>
 
 # AgentClinicSeri
